@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-script2",
+  "name": "ventrilo-homebridge-script2",
   "version": "0.3.0",
   "license": "MIT",
   "description": "script plugin for homebridge: https://github.com/nfarina/homebridge",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/heyventrilo/homebridge-script2.git"
+    "url": "git://github.com/ventrilo/homebridge-script2.git"
   },
   "engines": {
     "homebridge": ">=0.2.0",
